@@ -1,0 +1,11 @@
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\bin\Debug\netcoreapp2.0\HeroFlix.deps.json
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\bin\Debug\netcoreapp2.0\HeroFlix.runtimeconfig.json
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\bin\Debug\netcoreapp2.0\HeroFlix.runtimeconfig.dev.json
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\bin\Debug\netcoreapp2.0\HeroFlix.dll
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\bin\Debug\netcoreapp2.0\HeroFlix.pdb
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.csprojResolveAssemblyReference.cache
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.csproj.CoreCompileInputs.cache
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.AssemblyInfoInputs.cache
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.AssemblyInfo.cs
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.dll
+C:\Users\4296478\source\repos\HeroFlix\HeroFlix\obj\Debug\netcoreapp2.0\HeroFlix.pdb
